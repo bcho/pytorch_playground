@@ -1,4 +1,4 @@
-name: cs224n_playground
+name: playground
 channels:
   - pytorch
   - defaults
