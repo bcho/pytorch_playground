@@ -1,0 +1,9 @@
+name: cs224n_playground
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pytorch
+  - torchvision
